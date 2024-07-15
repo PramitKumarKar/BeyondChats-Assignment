@@ -1,5 +1,7 @@
 BeyondChats Assignment
 Pramit Kumar Kar 
+pramitkumarkar123@gmail.com
+
 
 In this Project, I have developed a replica of the Telegram Messaging Application to the best of my abilities within the given timeline.
 Technologies Used:
@@ -14,4 +16,8 @@ This component is responsible for displaying the list of chats that the user has
 MessagePage:
 This component is responsible for displaying the messages of a particular chat. It has an clear and detailed UI that displays the incoming and outgoing chats for a particular user, along with date and time it was sent. I have used axios to fetch the API which provides the messages for a particular chat ID.
 
+GitHub Repository Link: 
+https://github.com/PramitKumarKar/BeyondChats-Assignment
+
 Live Link: 
+https://beyond-chats-assignment-five.vercel.app/
